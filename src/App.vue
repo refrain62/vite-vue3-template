@@ -3,7 +3,7 @@
   <HelloWorld msg="Hello Vue 3.0 + Vite" />
 </template>
 
-<script>
+<script type="ts">
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
